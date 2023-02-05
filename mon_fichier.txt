@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  le conflit s'annonce sanglant
+=======
+on va creer un conflit
+>>>>>>> 7ddbd1c3f1e27bce3fa53f319b4623162a3e524d
