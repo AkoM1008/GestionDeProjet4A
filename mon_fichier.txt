@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 on va merge
+=======
+une ligne en plus
+>>>>>>> new-branch-feature
